@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR');
+body {
+    font-family: 'Noto Sans KR', sans-serif;
+    background-color: black;
+    }
+.container {text-align: center;}
+#logo { 
+    height: 70px;}
+nav {
+    
+    margin: 10px 5px;
+}
+#me {height: 400px;}
+
+.shot {height: 200px;}
+
+
+
+.orange {
+
+    color:  orange;
+}
+
+.white {
+    color: aliceblue;
+}

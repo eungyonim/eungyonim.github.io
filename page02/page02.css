@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css?family=Noto+Sans+KR');
+body {
+    font-family: 'Noto Sans KR', sans-serif;
+    background-color: black;
+    }
+.container {text-align: center;}
+#logo { 
+    height: 70px;}
+nav {
+    margin: 10px 5px;
+}
+
+.clothes_image {
+    width: 50px;
+    margin: 10px;
+}
+
+.why {
+    color: orange;
+}
+
+.ex {
+    color: aliceblue;
+}
+
+.himitu {
+    font-size: 12px;
+}
+
+.service {
+    color: white;
+}
+
+.service_image {
+    position: relative; right: 250px;
+}
+
+.service_ex {
+    text-align: left;
+    position: relative; bottom: 300px; left: 500px;
+    margin-left: 20px;
+    color: aliceblue;
+}
+
